@@ -13,9 +13,9 @@ We're interested in the arrow.
 
 We study the layer between language and consequence.
 
-> `p`: what can be said  
-> `→`: how it becomes something  
-> `q`: what actually happens
+> `p` what can be said  
+> `→` how it becomes something  
+> `q` what actually happens
 
 Right now that means:
 
