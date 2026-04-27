@@ -1,1 +1,1 @@
-craft over scale
+experimental craft and research, structure over parameters
