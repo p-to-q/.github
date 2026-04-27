@@ -1,16 +1,14 @@
-<div align="center">
 
-<sub><em>if p, then q.</em></sub>
+_if p, then q._
 
 # Experimental craft and research, over scale.
 
 <pre>[p → q]</pre>
 
-**We are interested in the arrow.**
+<pre>We are interested in the arrow.</pre>
 
 </div>
 
-_if p, then q._
 
 ## Experimental craft and research, over scale.
 
