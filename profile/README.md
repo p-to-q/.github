@@ -1,5 +1,7 @@
 _if p, then q._
 
+<div align="center">
+
 # Experimental craft and research, over scale.
 
 <pre>
