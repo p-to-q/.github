@@ -5,8 +5,9 @@ _if p, then q._
 # Experimental craft and research, over scale.
 
 <pre>
-[p → q]
-We are interested in the arrow.
+p: proposition
+→: transformation
+q: consequence
 </pre>
 
 </div>
