@@ -1,11 +1,4 @@
-
 _if p, then q._
-
-# Experimental craft and research, over scale.
-
-<div align="center">
-
-<sub><em>if p, then q.</em></sub>
 
 # Experimental craft and research, over scale.
 
