@@ -3,12 +3,18 @@ _if p, then q._
 
 # Experimental craft and research, over scale.
 
-<pre>[p → q]</pre>
+<div align="center">
 
-<pre>We are interested in the arrow.</pre>
+<sub><em>if p, then q.</em></sub>
+
+# Experimental craft and research, over scale.
+
+<pre>
+[p → q]
+We are interested in the arrow.
+</pre>
 
 </div>
-
 
 ## Experimental craft and research, over scale.
 
