@@ -22,14 +22,10 @@ Our first proof is [Wittgenstein](https://github.com/p-to-q/wittgenstein), a mod
 - Flat is better than nested.
 - Printability is a great feature.
 - Human-readable interfaces for machine-produced things.
-  - That is also why overly abstract means narcissism.
-
-<br/>
+- Overly abstract means narcissism.
 
 - Programming is a way of thinking, not a rote skill.
 - Long variable names don't hurt anyone.
-
-<br/>
 
 - The spectrum of perception varies greatly from person to person; people understand what they can see.
 - Humans’ needs and taste are important.
@@ -41,3 +37,4 @@ Seminal work in reasoning, behavioral training, agents, and alignment matters.
 
 Our singular focus means no distraction by management overhead or product cycles.
 or talk to us if you are interested in the arrow.
+<br/>
