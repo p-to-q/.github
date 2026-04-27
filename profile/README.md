@@ -11,8 +11,6 @@ We are interested in the arrow.
 
 </div>
 
-## Experimental craft and research, over scale.
-
 > `[p → q]`  
 > We are interested in the arrow.
 
