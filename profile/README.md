@@ -45,7 +45,7 @@ Our first proof is [Wittgenstein](https://github.com/p-to-q/wittgenstein), a mod
 
 ## Scope
 
-Seminal work in reasoning, behavioral training, agents, and alignment matters.
+> Seminal work in reasoning, behavioral training, agents, and alignment matters.
 
 <details>
 <summary>A loose canon</summary>
