@@ -13,9 +13,9 @@ We're interested in the arrow.
 
 We study the layer between language and consequence.
 
-> p: what can be said  
-> →: how it becomes something  
-> q: what actually happens
+> `p`: what can be said  
+> `→`: how it becomes something  
+> `q`: what actually happens
 
 Right now that means:
 
@@ -60,4 +60,4 @@ Our first proof is [Wittgenstein](https://github.com/p-to-q/wittgenstein), a mod
 
 Our singular focus means no distraction by management overhead or product cycles.
 
-or talk to us if you are interested in the arrow.
+or talk to us if you are interested in the arrow `→`.
