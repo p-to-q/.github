@@ -47,7 +47,7 @@ Our first proof is [Wittgenstein](https://github.com/p-to-q/wittgenstein), a mod
 
 > Seminal work in reasoning, behavioral training, agents, and alignment matters.
 
-<details>
+<details open>
 <summary>A loose canon</summary>
 
 <!-- canon goes here, unchanged -->
