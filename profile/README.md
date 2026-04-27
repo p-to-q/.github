@@ -5,7 +5,7 @@ _if p, then q._
 # Experimental craft and research, over scale.
 
 <pre>
-`[p → q]`
+[p → q]
 We are interested in the arrow.
 </pre>
 
