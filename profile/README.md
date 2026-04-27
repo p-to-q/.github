@@ -11,11 +11,11 @@ We're interested in the arrow.
 
 </div>
 
+We study the layer between language and consequence.
+
 > p: what can be said  
 > →: how it becomes something  
 > q: what actually happens
-
-We study the layer between language and consequence.
 
 Right now that means:
 
