@@ -19,7 +19,7 @@ We study the layer between language and consequence.
 
 Right now that means:
 
-- Today's AI is still bad; tomorrow's technology will be better.
+- Today's AI is still bad in many ordinary ways; tomorrow's technology will be better.
 - The bitter lesson we learn from it is that real-world data is continuous, high-dimensional, and noisy.
 - Consistently, the most successful implementations use simple, composable patterns rather than giant complex frameworks.
 - Like software in the 80s, there is a tremendous opportunity to build things that are not upgrades, but something completely different.
