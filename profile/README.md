@@ -40,6 +40,7 @@ Our first proof is [Wittgenstein](https://github.com/p-to-q/wittgenstein), a mod
 - The spectrum of perception varies greatly from person to person; people understand what they can see.
 - Humans’ needs and taste are important.
 - AI should serve as a deeper connective tissue that strengthens humans.
+- Sincerely elevate the species.
 
 
 ---
