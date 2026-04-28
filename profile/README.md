@@ -58,6 +58,6 @@ Our first proof is [Wittgenstein](https://github.com/p-to-q/wittgenstein), a mod
 
 ---
 
-Our singular focus means no distraction by management overhead or product cycles.
+Our singular focus means no distraction by management overhead or product cycles,
 
 or talk to us if you are interested in the arrow `→`.
