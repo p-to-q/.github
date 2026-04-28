@@ -61,7 +61,6 @@ Our first proof is [Wittgenstein](https://github.com/p-to-q/wittgenstein), a mod
 Our singular focus means no distraction by management overhead or product cycles,<br>
 this is a research question before it is a category.
 
-We won’t conceal any risk from you at `[p → q]`, but nor are we in the game of trying to make you panic. (We have better ways of holding your attention). <br>
-Stay calm, and keep engineering,
+We won’t conceal any risk from you at `[p → q]`, but nor are we in the game of trying to make you panic. (We have better ways of holding your attention)
 
 or talk to us if you are interested in the arrow `→`.
