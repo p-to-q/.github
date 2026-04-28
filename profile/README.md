@@ -58,6 +58,8 @@ Our first proof is [Wittgenstein](https://github.com/p-to-q/wittgenstein), a mod
 
 ---
 
+## Stance
+
 Our singular focus means no distraction by management overhead or product cycles,<br>
 this is a research question before it is a category.
 
