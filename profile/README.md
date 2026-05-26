@@ -71,6 +71,4 @@ We won't conceal any risk from you at `[p → q]`, but nor are we in the game of
 
 ### Support
 
-<a href="https://www.buymeacoffee.com/ptoq" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" width="217" />
-</a>
+[![BuyMeACoffee](https://raw.githubusercontent.com/pachadotdev/buymeacoffee-badges/main/bmc-yellow.svg)](https://www.buymeacoffee.com/ptoq)
