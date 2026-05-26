@@ -69,6 +69,9 @@ We won't conceal any risk from you at `[p → q]`, but nor are we in the game of
   <img src="https://contrib.rocks/image?repo=p-to-q/.github" alt="Contributors" />
 </a>
 
-### Support
+### Patronage
 
-[![BuyMeACoffee](https://raw.githubusercontent.com/pachadotdev/buymeacoffee-badges/main/bmc-yellow.svg)](https://www.buymeacoffee.com/ptoq)
+<a href="https://www.buymeacoffee.com/ptoq" target="_blank">
+  <img src="https://raw.githubusercontent.com/pachadotdev/buymeacoffee-badges/main/bmc-yellow.svg" alt="BuyMeACoffee" height="120">
+</a>
+
