@@ -71,6 +71,7 @@ We won't conceal any risk from you at `[p → q]`, but nor are we in the game of
 
 ### Patronage
 
-<a href="https://buymeacoffee.com" target="_blank">
-  <img src="https://githubusercontent.com" alt="BuyMeACoffee" style="transform: scale(2.5); transform-origin: left center; margin-right: 150px;">
+<a href="https://www.buymeacoffee.com/ptoq" target="_blank">
+  <img src="https://buymeacoffee.com" alt="BuyMeACoffee" style="width: 260px; max-width: 100%;">
 </a>
+
