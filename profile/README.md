@@ -59,13 +59,18 @@ Our first proof is [Wittgenstein](https://github.com/p-to-q/wittgenstein), a mod
 
 ---
 
-Our singular focus means no distraction by management overhead or product cycles,<br>
-this is a research question before it is a category.
+We won't conceal any risk from you at `[p → q]`, but nor are we in the game of trying to make you panic. (We have better ways of holding your attention). Or talk to us if you are interested in the arrow `→`.
 
-We won’t conceal any risk from you at `[p → q]`, but nor are we in the game of trying to make you panic. (We have better ways of holding your attention).
+---
 
-or talk to us if you are interested in the arrow `→`.
+### Contributors
 
 <a href="https://github.com/p-to-q/.github/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=p-to-q/.github" alt="Image with all contributors" />
+  <img src="https://contrib.rocks/image?repo=p-to-q/.github" alt="Contributors" />
+</a>
+
+### Support
+
+<a href="https://www.buymeacoffee.com/ptoq" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" width="217" />
 </a>
