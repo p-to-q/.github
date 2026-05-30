@@ -66,7 +66,7 @@ We won't conceal any risk from you at `[p → q]`, but nor are we in the game of
 ### Contributors
 
 <a href="https://github.com/p-to-q/.github/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=p-to-q/.github" alt="Contributors" />
+  <img src="https://contrib.rocks/image?repo=p-to-q/.github&columns=3" alt="Contributors" />
 </a>
 
 ### Patronage
